@@ -1,2 +1,8 @@
-# personal-portfolio
-Portfolio showcasing the work of Chris Fornia
+### Personal portfolio for Chris Fornia
+
+## Links to 
+# NPS Trip Planner
+# Study Flash Cards
+# Prework
+# Dungeon Crawler
+# World Wander
